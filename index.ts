@@ -4,7 +4,6 @@ import { ApplicationCommandOptionType } from "@api/Commands";
 
 export default definePlugin({
     name: "HypeSquad Changer",
-    // Added your GitHub link directly to the description so it's always visible
     description: "Easily change or leave your HypeSquad house.",
     authors: [{ 
         name: "Mr. Robot", 
